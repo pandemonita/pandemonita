@@ -2,6 +2,7 @@
 <h3 align="center">Desenvolvedora Full Stack</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/xA4q0AO9UH0AAAAC/keyboard-hanamaru-kindergarten.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandemonita&label=Profile%20views&color=d581b6&style=plastic" alt="pandemonita" /> </p>
 
 - Main Stack: **JAVA**
@@ -22,7 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandemonita&show_icons=true&theme=tokyonight&title_color=e6a7d6&bg_color=000000&locale=en" alt="pandemonita" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandemonita&theme=dark" alt="pandemonita" /></p>
-
-
 ## snake eating my contribution graph
 ![snake gif](https://github.com/AravindaJogi/AravindaJogi/blob/output/github-contribution-grid-snake-dark.svg)
